@@ -17,29 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+I am an assistant professor at Faculty of Computing, Harbin Institute of Technology (HIT). He received the Ph.D. degree in software engineering from Harbin Institute of Technology in 2023. He has received the Outstanding Doctoral Dissertation Nomination Award from Harbin Institute of Technology, and the Outstanding Doctoral Award from CCF Specialized Committee on Service Computing. His research interests include service ecosystem model, graph structure learning, graph neural networks and graph foundation model.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 服务计算(Service Computing)
+- 图神经网络(Graph Neural Network)
+- 图结构学习(Graph Structure Learning)
+
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
+# 🎓 教育经历
+
+- *2018.09 - 2023.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a> 哈尔滨工业大学 计算学部, 黑龙江哈尔滨, 博士(硕博连读)
+
+- *2014.09 - 2018.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="23pt"></a> 哈尔滨工业大学 计算机科学与技术学院, 黑龙江哈尔滨, 本科
+
+
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 🎓 工作经历
+
+- *2013.06 - 今*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a> 哈尔滨工业大学 计算学部, 助理教授
+
+
+
+
+<span class='anchor' id='-lwzl'></span>
+
+# 📝 论文专利 (To Update...)
 
 ### 英文
 ---
