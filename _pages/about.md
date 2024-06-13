@@ -20,10 +20,6 @@ redirect_from:
 I am an assistant professor at Faculty of Computing, Harbin Institute of Technology (HIT). He received the Ph.D. degree in software engineering from Harbin Institute of Technology in 2023. He has received the Outstanding Doctoral Dissertation Nomination Award from Harbin Institute of Technology, and the Outstanding Doctoral Award from CCF Specialized Committee on Service Computing. His research interests include service ecosystem model, graph structure learning, graph neural networks and graph foundation model.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 服务计算(Service Computing)
-- 图神经网络(Graph Neural Network)
-- 图结构学习(Graph Structure Learning)
 
   
 
