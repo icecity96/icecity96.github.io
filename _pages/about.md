@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Faculty of Computing, Harbin Institute of Technology (HIT). He received the Ph.D. degree in software engineering from Harbin Institute of Technology in 2023. He has received the Outstanding Doctoral Dissertation Nomination Award from Harbin Institute of Technology, and the Outstanding Doctoral Award from CCF Specialized Committee on Service Computing. His research interests include service ecosystem model, graph structure learning, graph neural networks and graph foundation model.
+I am an assistant professor at Faculty of Computing, Harbin Institute of Technology (HIT). I received the Ph.D. degree in software engineering from Harbin Institute of Technology in 2023. I has received the Outstanding Doctoral Dissertation Nomination Award from Harbin Institute of Technology, and the Outstanding Doctoral Award from CCF Specialized Committee on Service Computing. My research interests include service computing, graph structure learning, graph neural networks and graph foundation model.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 
@@ -26,20 +26,23 @@ I am an assistant professor at Faculty of Computing, Harbin Institute of Technol
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 教育经历
+# 🎓 Education
 
-- *2018.09 - 2023.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a> 哈尔滨工业大学 计算学部, 黑龙江哈尔滨, 博士(硕博连读)
+- *2018.09 - 2023.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a> Harbin Institute of Technology, Faculty of Computing, Ph.D. (combined Master's and Doctoral program)
 
-- *2014.09 - 2018.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="23pt"></a> 哈尔滨工业大学 计算机科学与技术学院, 黑龙江哈尔滨, 本科
+- *2014.09 - 2018.06*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="23pt"></a> Harbin Institute of Technology, School of Computer Science and Technology, Bachelor
 
 
 <span class='anchor' id='-lwzl'></span>
 
-# 🎓 工作经历
+# 💻 Professional Experience
 
-- *2013.06 - 今*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a> 哈尔滨工业大学 计算学部, 助理教授
+- *2013.06 - Now*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a>  Harbin Institute of Technology, Faculty of Computing, Assistant Professor
 
 
+# 📋 Professional Activities
+
+ICWS24 SPC, ICSOC24 PC, IEEE COINS, 
 
 
 <span class='anchor' id='-lwzl'></span>
