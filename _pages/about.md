@@ -37,7 +37,7 @@ I am an assistant professor at Faculty of Computing, Harbin Institute of Technol
 
 # 💻 Professional Experience
 
-- *2013.06 - Now*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a>  Harbin Institute of Technology, Faculty of Computing, Assistant Professor
+- *2023.06 - Now*, <a href="https://www.hit.edu.cn/"><img class="svg" src="/images/hit_logo.svg" width="20pt"></a>  Harbin Institute of Technology, Faculty of Computing, Assistant Professor
 
 
 # 📋 Professional Activities
@@ -51,12 +51,22 @@ I am an assistant professor at Faculty of Computing, Harbin Institute of Technol
 
 ### Journal
 ---
+
+- **Mingyi Liu**, Zhiying Tu, Tonghua Su, Xianzhi Wang, Xiaofei Xu, Zhongjie Wang. Behaviornet: A fine-grained behavior-aware network for dynamic link prediction. *ACM Transactions on the web.*, 18(2): 1-26 (2024) (**CCF-B**) [[DOI]](https://dl.acm.org/doi/abs/10.1145/3580514)
+
+- **Mingyi Liu**, Hanchuan Xu, Quan Z Sheng, Zhongjie Wang. QoSGNN: Boosting QoS Prediction Performance With Graph Neural Networks. *IEEE Trans. Serv. Comput.*, (2023)  (**CCF-A**, IF=8.2) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10373910/) 
+
+- **Mingyi Liu**, Zhiying Tu, Xiaofei Xu, Zhongjie Wang. Who Should I Engage With at What Time? A Missing Event-Aware Temporal Graph Neural Network.  *IEEE Transactions on Neural Networks and Learning Systems*, (2023)  (**CCF-B**, TOP) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10195200/)
+
 - **Mingyi Liu**, Zhiying Tu, Hanchuan Xu, Xiaofei Xu, Zhongjie Wang. DySR: A Dynamic Graph Neural Network Based Service Bundle Recommendation Model for Mashup Creation. *IEEE Trans. Serv. Comput.*, 16(4): 2592-2605 (2023) (**CCF-A**, IF=8.2) [[DOI]](https://doi.org/10.1109/TSC.2023.3234293)
 
 - **Mingyi Liu**, Zhiying Tu, Xiaofei Xu, Zhongjie Wang, Yan Wang. A data-driven approach for constructing multilayer network-based service ecosystem models. *Softw. Syst. Model.*, 22(3): 919-939 (2023) (**CCF-B**) [[DOI]](https://link.springer.com/article/10.1007/s10270-022-01029-6)
 
 - **Mingyi Liu**, Zhiying Tu, Tong Zhang, Tonghua Su, Xiaofei Xu, Zhongjie Wang. LTP: A New Active Learning Strategy for CRF-Based Named Entity Recognition. *Neural Process. Lett.*, 54(3): 2433-2454 (2022) [[DOI]](https://link.springer.com/article/10.1007/s11063-021-10737-x) [[Code]](https://github.com/HIT-ICES/AL-NER)
 
+- **Mingyi Liu**, Zhiying Tu, Hanchuan Xu, Xiaofei Xu, Zhongjie Wang. Community-based service ecosystem evolution analysis. *Service Oriented Computing and Applications.*, 16(2): 97-110 (2022) [[DOI]](https://link.springer.com/article/10.1007/s11761-022-00333-9)
+
+- **Mingyi Liu**, Zhiying Tu, Yeqi Zhu, Xiaofei Xu, Zhongjie Wang, Quan Z Sheng. Data correction and evolution analysis of the ProgrammableWeb service ecosystem. *Journal of Systems and Software.*, 182: 111066 (2021)  (**CCF-B**) [[DOI]](https://www.sciencedirect.com/science/article/pii/S0164121221001631) 
 
 ### Conference
 ---
